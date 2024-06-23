@@ -1,0 +1,35 @@
+{
+	"name": "gulp-wordpress-starter",
+	"version": "1.1.0",
+	"description": "gulp-wordpress-starter with sass/scss support and minification css/js",
+	"author": "https://github.com/dmiroshnichenko02",
+	"license": "ISC",
+	"links": {
+		"repository": "https://github.com/dmiroshnichenko02/gulp-wordpress-starter"
+	},
+	"devDependencies": {
+		"@types/gulp-sass": "^5.0.4",
+		"dotenv": "^16.4.1",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^9.0.0",
+		"gulp-clean-css": "^4.3.0",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-minify": "^3.1.0",
+		"gulp-postcss": "^9.1.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-sftp": "^0.1.5",
+		"gulp-sftp-up4": "^0.1.8",
+		"gulp-util": "^3.0.8",
+		"gulp-watch": "^5.0.1",
+		"postcss": "^8.4.33",
+		"prettier": "^3.2.5",
+		"tailwindcss": "^3.4.1",
+		"vinyl-ftp": "^0.6.1",
+		"gulp-if": "^3.0.0"
+	},
+	"dependencies": {
+		"gulp-typescript": "^6.0.0-alpha.1",
+		"sass": "^1.70.0",
+		"typescript": "^5.4.5"
+	}
+}
