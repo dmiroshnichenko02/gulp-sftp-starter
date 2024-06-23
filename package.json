@@ -5,7 +5,7 @@
 	"author": "https://github.com/dmiroshnichenko02",
 	"license": "ISC",
 	"links": {
-		"repository": "https://github.com/dmiroshnichenko02/gulp-wordpress-starter"
+		"repository": "https://github.com/dmiroshnichenko02/gulp-sftp-starter.git"
 	},
 	"devDependencies": {
 		"@types/gulp-sass": "^5.0.4",
